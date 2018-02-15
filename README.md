@@ -5,36 +5,18 @@ This contains code for review
 
 2 The program asks to enter the user name (user name should be the name to fetch the all the repositories associated with that name) for example ankurmuley
 
-3 Press enter, it will display all the public repositories along with repository id.
+3 Press enter, it will display all the public repositories name.
 
 4 Sample output
 
 Enter your UserName
 ankurmuley
-Repository ID : 104621106
-Repository Name : ankurmuley/Advanced-DataBase-Management-Systems-fall_2017
+Advanced-DataBase-Management-Systems-fall_2017
+Advances-in-Data-Sciences-Architecture
+Application-Engineering-Development
+code_test
+Data-Warehousing-Business-Intelligence
+Database-Development-Database-Design
+webtools
 
-
-Repository ID : 80915006
-Repository Name : ankurmuley/Advances-in-Data-Sciences-Architecture
-
-
-Repository ID : 72499205
-Repository Name : ankurmuley/Application-Engineering-Development
-
-
-Repository ID : 121595084
-Repository Name : ankurmuley/code_test
-
-
-Repository ID : 105869795
-Repository Name : ankurmuley/Data-Warehousing-Business-Intelligence
-
-
-Repository ID : 105869433
-Repository Name : ankurmuley/Database-Development-Database-Design
-
-
-Repository ID : 70197219
-Repository Name : ankurmuley/webtools
 
