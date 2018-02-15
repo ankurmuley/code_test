@@ -34,13 +34,9 @@ public class GitRepos {
                 for (Object o : arr) {
                     JSONObject repos = (JSONObject) o;
 
-                    Long id = (Long) repos.get("id");
-                    System.out.println("Repository ID : " + id);
+                    String name = (String) repos.get("name");
+                    System.out.println(name);
 
-                    String full_name = (String) repos.get("full_name");
-                    System.out.println("Repository Name : " + full_name);
-
-                    System.out.println("\n");
                 }
             }
             in.close();
